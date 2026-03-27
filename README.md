@@ -44,7 +44,7 @@ ecommerce-cart/
 ---
 
 
-# Author : prince kumar Mishra.
+# Author : Prince kumar Mishra.
 
 ## ⭐ Support
 
